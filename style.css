@@ -34,8 +34,8 @@ li {
 }
 
 a {
-    background-color: #0B300A;
-    color: #93E22D;
+    background-color: #93E22D;
+    color: #0B300A;
     padding: 15px;
     text-decoration: none;
     display: block;
@@ -43,8 +43,8 @@ a {
 }
 
 a:hover {
-    background-color: #93E22D;
-    color: #0B300A;
+    background-color: #0B300A;
+    color: #93E22D;
 }
 
 footer{
