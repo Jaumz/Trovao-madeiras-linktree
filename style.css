@@ -41,7 +41,7 @@ li {
 a {
     background-color: #526126;
     color: #F9F9F7;
-    padding: 15px;
+    padding: 12px;
     text-decoration: none;
     display: block;
     border-radius: 18px;
@@ -68,4 +68,14 @@ footer{
 
 span {
     color: #93E22D;
+}
+
+.address_style {
+    margin-top: 5px;
+    color: white;
+}
+
+.highlight_button {
+    font-size: 20px !important;
+    padding: 18px !important;
 }
